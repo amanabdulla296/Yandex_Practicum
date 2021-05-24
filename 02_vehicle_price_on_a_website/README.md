@@ -1,6 +1,6 @@
 # Project description
 As an analyst at Crankshaft List, where hundreds of free advertisements for vehicles are published on the website every day. You need to study data collected over the last few years and determine which factors influence the price of a vehicle.
-<img src="https://github.com/amanabdulla296/02_vehicle_sale_website_YP/blob/8ff891855329c3e02b67c648f4e0a5f71d0b67fd/for-sale-sign.jpg" />
+<img src="https://github.com/amanabdulla296/Yandex_Practicum/blob/3c068a2d377d65f7d64f4f62baa7ec154995c3a5/02_vehicle_price_on_a_website/for-sale-sign.jpg" />
 
 ## Step 1. Open the data file and study the general information
 ## Step 2. Data preprocessing
