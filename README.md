@@ -1,5 +1,10 @@
+# About this repository
+In this repository, I will share all projects I have completed during my Data scientist program on Practicum by Yandex. These projects were completed solely by myself and subsequently, they were checked by a reviewer. Each project consists of its description as a README.md file and necessary datasets. If you have any question, please feel free to ask! Below you will find brief information about the Practicum by Yandex Bootcamp.
+
+
+
 # About Practicum by Yandex
-<img src="https://github.com/amanabdulla296/Yandex_Practicum/blob/56e8d6571a2be1e0a8c163a6b3a7d48b9fedbf10/download.png" />
+<img style="float: center" src="https://github.com/amanabdulla296/Yandex_Practicum/blob/56e8d6571a2be1e0a8c163a6b3a7d48b9fedbf10/download.png" />
 Practicum by Yandex offers six- to ten-month online courses in fields related to coding. Students can currently choose from one of three programs: Data Scientist, Data Analyst, and Web Developer. Practicum courses incorporate professional knowledge that you won't find in any textbook, finally bridging the gap between short-term MOOCs and full-time bootcamps.
 
 Each course includes full access to an interactive online platform, professional courses with real-life projects, tutor support from an experienced developer, and code reviews, students graduate with professional certificates and portfolios to show to potential employers.
