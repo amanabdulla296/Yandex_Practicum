@@ -1,4 +1,5 @@
 # Project description
+![image](https://user-images.githubusercontent.com/56832126/120832519-0c12f280-c561-11eb-9cef-a6aaf3326f9b.png)
 
 
 Your project is to prepare a report for a bank’s loan division. You’ll need to find out if a customer’s marital status and number of children have an impact on whether they will default on a loan. The bank already has some data on customers’ credit worthiness.
