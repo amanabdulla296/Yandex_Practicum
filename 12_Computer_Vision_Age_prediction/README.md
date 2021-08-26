@@ -8,6 +8,8 @@ Build a model that will determine the approximate age of a person from a photogr
 ![image](https://user-images.githubusercontent.com/56832126/130930619-98cfd9fb-b079-405a-8e8f-6ae75d35333b.png)
 
 ## Project Instructions
+
+You can find dataset and complete work here: https://www.kaggle.com/amanabdullayev/age-prediction-from-photo-using-cnn-resnet50
 - Analyze the set of photographs.
 -  Prepare the data for training.
 - Train the neural network and calculate its quality.
