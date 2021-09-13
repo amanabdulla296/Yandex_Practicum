@@ -5,7 +5,7 @@ Here, you will find all projects I have completed during my Data scientist Bootc
 
 # About Practicum by Yandex
 <p align="center">
-  <img style="float: center" src="https://github.com/amanabdulla296/Yandex_Practicum/blob/56e8d6571a2be1e0a8c163a6b3a7d48b9fedbf10/download.png"  width="500px"/>
+  <img style="float: center" src="https://github.com/amanabdulla296/Yandex_Practicum/blob/56e8d6571a2be1e0a8c163a6b3a7d48b9fedbf10/download.png"  width="1000px"/>
   </p>
 Practicum by Yandex offers six- to ten-month online courses in fields related to coding. Students can currently choose from one of three programs: Data Scientist, Data Analyst, and Web Developer. Practicum courses incorporate professional knowledge that you won't find in any textbook, finally bridging the gap between short-term MOOCs and full-time bootcamps.
 
