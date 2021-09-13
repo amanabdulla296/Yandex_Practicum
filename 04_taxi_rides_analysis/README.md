@@ -1,5 +1,4 @@
-# Project Description
-Factors affecting Taxi rides
+# Project Description: Factors affecting Taxi rides
 <p align="center">
  <img src="https://user-images.githubusercontent.com/56832126/121534046-25082180-ca01-11eb-9379-e5990fabfecd.png" width="500px">
  </p>
