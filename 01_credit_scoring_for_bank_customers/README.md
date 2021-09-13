@@ -17,29 +17,22 @@ Our report will be considered while building a **credit** score for a potential 
   - Categorize the data
 
 
-**Be sure to explain:**
-
-- Which missing values you identified
-- Possible reasons these missing values were present
-- Which method you used to fill in missing values
-- Which method you used to find and delete duplicate data and why
-- Possible reasons why duplicate data was present
-- Which method you used to change the data type and why
-- Which dictionaries you've selected for this dataset and why
-
-
-The data may contain artifacts, or values that don't correspond to reality (for instance, a negative number of days employed). This kind of thing happens when you're working with real data. You need to describe the possible reasons such data may have turned up and process it.
+- **Be sure to explain:**
+  - Which missing values you identified
+  - Possible reasons these missing values were present
+  - Which method you used to fill in missing values
+  - Which method you used to find and delete duplicate data and why
+  - Possible reasons why duplicate data was present
+  - Which method you used to change the data type and why
+  - Which dictionaries you've selected for this dataset and why
 
 
-# At the end answer these questions:
+The data may contain artifacts, or values that don't correspond to reality (for instance, a negative number of days employed). This kind of thing happens when you're working with real data. We need to describe the possible reasons such data may have turned up and process it.
 
 
-- Is there a connection between having kids and repaying a loan on time?
-- Is there a connection between marital status and repaying a loan on time?
-- Is there a connection between income level and repaying a loan on time?
-- How do different loan purposes affect on-time loan repayment?
-
-
-Interpret your answers. Explain what the results you obtained mean.
-Step 4. Write an overall conclusion.
+- **At the end, we will answer these questions:**
+  - Is there a connection between having kids and repaying a loan on time?
+  - Is there a connection between marital status and repaying a loan on time?
+  - Is there a connection between income level and repaying a loan on time?
+  - How do different loan purposes affect on-time loan repayment?
 
